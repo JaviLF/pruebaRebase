@@ -14,4 +14,8 @@ public class mat {
             System.out.println(a-b);
         }
     }
+
+    public void multiplicacion(Integer a,Integer b){
+        System.out.println(a*b);
+    }
 }

@@ -15,5 +15,8 @@ public class application extends Application {
         aux.suma(5,7);
         aux.resta(4,5);
         aux.resta(7,2);
+        aux.multiplicacion(4,5);
+        aux.multiplicacion(4,0);
+
     }
 }
