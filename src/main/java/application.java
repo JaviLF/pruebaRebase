@@ -13,5 +13,7 @@ public class application extends Application {
         System.out.println("Hola mundo");
         mat aux=new mat();
         aux.suma(5,7);
+        aux.resta(4,5);
+        aux.resta(7,2);
     }
 }
