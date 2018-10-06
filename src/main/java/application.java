@@ -11,5 +11,12 @@ public class application extends Application {
     @Override
     public void start(Stage primaryStage) {
         System.out.println("Hola mundo");
+        mat aux=new mat();
+        aux.suma(5,7);
+        aux.resta(4,5);
+        aux.resta(7,2);
+        aux.multiplicacion(4,5);
+        aux.multiplicacion(4,0);
+        aux.division(20,5);
     }
 }
