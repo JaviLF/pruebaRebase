@@ -18,4 +18,8 @@ public class mat {
     public void multiplicacion(Integer a,Integer b){
         System.out.println(a*b);
     }
+
+    public void division(Integer a,Integer div){
+        System.out.println(a/div);
+    }
 }
